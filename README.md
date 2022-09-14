@@ -37,7 +37,7 @@ $$ \theta = (X^T*X)^{-1}*X^T*y $$
 
 2. Sigmoid
 [See reference here](https://baike.baidu.com/item/Sigmoid%E5%87%BD%E6%95%B0/7981407)
-$$ g(z) = 1/(1+e^{-z}) $$
+$ g(z) = 1/(1+e^{-z}) $
 
 
 ## About testing
